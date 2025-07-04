@@ -14,7 +14,7 @@ void main() {
 }
 
 
-// imageknob for increasing the volume
+// image knob for increasing the volume
 class ImageKnobWithVolume extends StatefulWidget {
   const ImageKnobWithVolume({super.key});
 
